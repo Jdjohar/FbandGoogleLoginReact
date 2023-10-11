@@ -29,7 +29,7 @@ function App() {
     <div className="App">
 
 <FacebookLogin
-        appId={"610954016431255"}
+        appId={"1011810460159074"}
         fields="name,email,picture"
         callback={facebookResponse}
         className="facebook-login-button"
